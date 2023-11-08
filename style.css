@@ -387,6 +387,7 @@ body {
 .contact-me {
     margin-top: 4em;
     padding-bottom: 3em;
+    user-select: none;
 }
 
 .portfolio .container-of-cards {
